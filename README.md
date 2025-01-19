@@ -6,6 +6,7 @@ And I am a junior front-end developer, graduate june-2024.
 ### Technical Skills
 #### Programming Languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=FF8484)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=JavaScript&logoColor=white&color=FF8484)
 
 #### Frameworks
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=FF8484)
